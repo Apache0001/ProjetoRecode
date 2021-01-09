@@ -1,0 +1,15 @@
+
+/* MENU NAVEGACAO*/
+a {
+    color: black;
+}
+
+.menu-navegacao a{
+    color: white;
+    border-top: 2px solid #ffc107;
+    font-size: 1.2em;
+}
+.menu-navegacao a:hover{
+    color: white;
+    border-top: 2px solid white;
+}
